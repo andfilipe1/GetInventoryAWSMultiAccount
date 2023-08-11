@@ -1,0 +1,5 @@
+# Ignorar a pasta __pycache__ em qualquer lugar do repositório
+__pycache__/
+
+# Ignorar o arquivo aws_inventory.log
+aws_inventory.log
